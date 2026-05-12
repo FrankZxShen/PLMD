@@ -125,7 +125,7 @@ python main_MRON.py -d ./MRON_EXP/ \
 
 ## Citation
 
-If PLMD helps your robot, agent, or map find its way a little more gracefully, please cite our ICML 2026 paper:
+If you find PLMD useful, please cite our ICML 2026 paper:
 
 ```bibtex
 @inproceedings{plmd2026,
@@ -134,12 +134,6 @@ If PLMD helps your robot, agent, or map find its way a little more gracefully, p
   year      = {2026}
 }
 ```
-
-For a more personal citation note in your project README, you can write:
-
-> We build on PLMD, an ICML 2026 plug-and-play label-map diffusion framework for universal goal-oriented navigation.
-
-The official author list and publication metadata should be filled in after the camera-ready citation is finalized.
 
 ## Acknowledgements
 
