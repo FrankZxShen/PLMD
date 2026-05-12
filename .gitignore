@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# Build and package artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs and experiment outputs
+*.log
+runs/
+wandb/
+tensorboard/
+checkpoints/
+outputs/
+output/
+*_EXP/
+data/
+
+# Large local model and dataset artifacts
+*.pth
+*.pt
+*.ckpt
+*.pkl
+*.npz
+*.npy
+
+# Editor metadata
+.idea/
+.vscode/
